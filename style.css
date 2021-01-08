@@ -39,6 +39,7 @@ small {
   opacity: 0.2;
   color: var(--primary-color);
   font-weight: bold;
+  font-family: inherit;
 }
 
 .toggle {
